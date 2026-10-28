@@ -25,14 +25,31 @@ Learn how to check where you are and explore folders.
    ```
 
 **Submit a screenshot of every step to the images folder**
-`images/CLI_step1.jpg`
 
-`images/CLI_step2.jpg`
 
-`images/CLI_step3.jpg`
 
-`images/CLI_step4.jpg`
+<img width="165" height="69" alt="pwd" src="https://github.com/user-attachments/assets/0522a6aa-75cf-4e27-bc6c-51b1e53173e7" />
 
-`images/CLI_step5.jpg`
 
-`images/CLI_step6.jpg`
+
+<img width="876" height="197" alt="ls" src="https://github.com/user-attachments/assets/90544c1c-85bf-4f87-8e8d-8c5c1cb2dd4b" />
+
+
+
+<img width="239" height="74" alt="cd documents" src="https://github.com/user-attachments/assets/2a95af25-501c-42fe-9224-330d538da06e" />
+
+
+
+<img width="315" height="75" alt="Technology_projects" src="https://github.com/user-attachments/assets/7d62bc72-81fe-441f-a40f-85e6e17172a2" />
+
+
+
+<img width="227" height="34" alt="week 02" src="https://github.com/user-attachments/assets/07778bed-e23b-46e7-a06b-aaab1fb0c06e" />
+
+
+<img width="235" height="67" alt="CLI" src="https://github.com/user-attachments/assets/4a135e66-e571-45e5-a7d1-04f5ed42983e" />
+
+
+<img width="770" height="41" alt="ls -a" src="https://github.com/user-attachments/assets/10bfdf85-8704-4605-961d-221ddbab9189" />
+
+
